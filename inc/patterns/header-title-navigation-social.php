@@ -3,7 +3,7 @@
  * Title, navigation, and social links header block pattern
  */
 return array(
-	'title'      => __( 'Title, navigation, and social links header', 'twentytwentytwo' ),
+	'title'      => __( 'Title, navigation, and social links header', 'milon' ),
 	'categories' => array( 'header' ),
 	'blockTypes' => array( 'core/template-part/header' ),
 	'content'    => '<!-- wp:group {"align":"full","layout":{"inherit":true}} -->

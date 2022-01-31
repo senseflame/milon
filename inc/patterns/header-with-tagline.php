@@ -3,7 +3,7 @@
  * Header with tagline block pattern
  */
 return array(
-	'title'      => __( 'Header with tagline', 'twentytwentytwo' ),
+	'title'      => __( 'Header with tagline', 'milon' ),
 	'categories' => array( 'header' ),
 	'blockTypes' => array( 'core/template-part/header' ),
 	'content'    => '<!-- wp:group {"align":"full","layout":{"inherit":true}} -->

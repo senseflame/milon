@@ -3,7 +3,7 @@
  * Pricing table block pattern
  */
 return array(
-	'title'      => __( 'Pricing table', 'twentytwentytwo' ),
+	'title'      => __( 'Pricing table', 'milon' ),
 	'categories' => array( 'featured', 'columns', 'buttons' ),
 	'content'    => '<!-- wp:columns {"align":"wide"} -->
 					<div class="wp-block-columns alignwide"><!-- wp:column -->
@@ -12,20 +12,20 @@ return array(
 					<!-- /wp:separator -->
 
 					<!-- wp:heading {"style":{"typography":{"fontSize":"var(--wp--custom--typography--font-size--gigantic, clamp(2.75rem, 6vw, 3.25rem))","lineHeight":"0.5"}}} -->
-					<h2 id="1" style="font-size:var(--wp--custom--typography--font-size--gigantic, clamp(2.75rem, 6vw, 3.25rem));line-height:0.5">' . esc_html( _x( '1', 'First item in a numbered list.', 'twentytwentytwo' ) ) . '</h2>
+					<h2 id="1" style="font-size:var(--wp--custom--typography--font-size--gigantic, clamp(2.75rem, 6vw, 3.25rem));line-height:0.5">' . esc_html( _x( '1', 'First item in a numbered list.', 'milon' ) ) . '</h2>
 					<!-- /wp:heading -->
 
 					<!-- wp:heading {"level":3,"fontSize":"x-large"} -->
-					<h3 class="has-x-large-font-size" id="pigeon"><em>' . esc_html__( 'Pigeon', 'twentytwentytwo' ) . '</em></h3>
+					<h3 class="has-x-large-font-size" id="pigeon"><em>' . esc_html__( 'Pigeon', 'milon' ) . '</em></h3>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
-					<p>' . esc_html__( 'Help support our growing community by joining at the Pigeon level. Your support will help pay our writers, and you’ll get access to our exclusive newsletter.', 'twentytwentytwo' ) . '</p>
+					<p>' . esc_html__( 'Help support our growing community by joining at the Pigeon level. Your support will help pay our writers, and you’ll get access to our exclusive newsletter.', 'milon' ) . '</p>
 					<!-- /wp:paragraph -->
 
 					<!-- wp:buttons -->
 					<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"foreground","width":100} -->
-					<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background">' . esc_html__( '$25', 'twentytwentytwo' ) . '</a></div>
+					<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background">' . esc_html__( '$25', 'milon' ) . '</a></div>
 					<!-- /wp:button --></div>
 					<!-- /wp:buttons -->
 
@@ -40,20 +40,20 @@ return array(
 					<!-- /wp:separator -->
 
 					<!-- wp:heading {"style":{"typography":{"fontSize":"clamp(2.75rem, 6vw, 3.25rem)","lineHeight":"0.5"}}} -->
-					<h2 id="2" style="font-size:clamp(2.75rem, 6vw, 3.25rem);line-height:0.5">' . esc_html( _x( '2', 'Second item in a numbered list.', 'twentytwentytwo' ) ) . '</h2>
+					<h2 id="2" style="font-size:clamp(2.75rem, 6vw, 3.25rem);line-height:0.5">' . esc_html( _x( '2', 'Second item in a numbered list.', 'milon' ) ) . '</h2>
 					<!-- /wp:heading -->
 
 					<!-- wp:heading {"fontSize":"x-large"} -->
-					<h2 class="has-x-large-font-size" id="sparrow"><meta charset="utf-8"><em>' . esc_html__( 'Sparrow', 'twentytwentytwo' ) . '</em></h2>
+					<h2 class="has-x-large-font-size" id="sparrow"><meta charset="utf-8"><em>' . esc_html__( 'Sparrow', 'milon' ) . '</em></h2>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
-					<p>' . esc_html__( 'Join at the Sparrow level and become a member of our flock! You’ll receive our newsletter, plus a bird pin that you can wear with pride when you’re out in nature.', 'twentytwentytwo' ) . '</p>
+					<p>' . esc_html__( 'Join at the Sparrow level and become a member of our flock! You’ll receive our newsletter, plus a bird pin that you can wear with pride when you’re out in nature.', 'milon' ) . '</p>
 					<!-- /wp:paragraph -->
 
 					<!-- wp:buttons -->
 					<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"foreground","width":100} -->
-					<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background">' . esc_html__( '$75', 'twentytwentytwo' ) . '</a></div>
+					<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background">' . esc_html__( '$75', 'milon' ) . '</a></div>
 					<!-- /wp:button --></div>
 					<!-- /wp:buttons -->
 
@@ -68,20 +68,20 @@ return array(
 					<!-- /wp:separator -->
 
 					<!-- wp:heading {"style":{"typography":{"fontSize":"clamp(2.75rem, 6vw, 3.25rem)","lineHeight":"0.5"}}} -->
-					<h2 id="3" style="font-size:clamp(2.75rem, 6vw, 3.25rem);line-height:0.5">' . esc_html( _x( '3', 'Third item in a numbered list.', 'twentytwentytwo' ) ) . '</h2>
+					<h2 id="3" style="font-size:clamp(2.75rem, 6vw, 3.25rem);line-height:0.5">' . esc_html( _x( '3', 'Third item in a numbered list.', 'milon' ) ) . '</h2>
 					<!-- /wp:heading -->
 
 					<!-- wp:heading {"fontSize":"x-large"} -->
-					<h2 class="has-x-large-font-size" id="falcon"><meta charset="utf-8"><em>' . esc_html__( 'Falcon', 'twentytwentytwo' ) . '</em></h2>
+					<h2 class="has-x-large-font-size" id="falcon"><meta charset="utf-8"><em>' . esc_html__( 'Falcon', 'milon' ) . '</em></h2>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
-					<p>' . esc_html__( 'Play a leading role for our community by joining at the Falcon level. This level earns you a seat on our board, where you can help plan future birdwatching expeditions.', 'twentytwentytwo' ) . '</p>
+					<p>' . esc_html__( 'Play a leading role for our community by joining at the Falcon level. This level earns you a seat on our board, where you can help plan future birdwatching expeditions.', 'milon' ) . '</p>
 					<!-- /wp:paragraph -->
 
 					<!-- wp:buttons -->
 					<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"foreground","width":100} -->
-					<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background">' . esc_html__( '$150', 'twentytwentytwo' ) . '</a></div>
+					<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background">' . esc_html__( '$150', 'milon' ) . '</a></div>
 					<!-- /wp:button --></div>
 					<!-- /wp:buttons -->
 

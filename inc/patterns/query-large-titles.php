@@ -3,7 +3,7 @@
  * Large post titles block pattern
  */
 return array(
-	'title'      => __( 'Large post titles', 'twentytwentytwo' ),
+	'title'      => __( 'Large post titles', 'milon' ),
 	'categories' => array( 'query' ),
 	'blockTypes' => array( 'core/query' ),
 	'content'    => '<!-- wp:query {"query":{"pages":0,"offset":0,"postType":"post","categoryIds":[],"tagIds":[],"order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"perPage":8},"align":"wide"} -->

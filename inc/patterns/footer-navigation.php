@@ -3,7 +3,7 @@
  * Footer with navigation and citation
  */
 return array(
-	'title'      => __( 'Footer with navigation and citation', 'twentytwentytwo' ),
+	'title'      => __( 'Footer with navigation and citation', 'milon' ),
 	'categories' => array( 'footer' ),
 	'blockTypes' => array( 'core/template-part/footer' ),
 	'content'    => '<!-- wp:group {"align":"full","layout":{"inherit":true}} -->
@@ -16,8 +16,8 @@ return array(
 					<p class="has-text-align-right">' .
 					sprintf(
 						/* Translators: WordPress link. */
-						esc_html__( 'Proudly powered by %s', 'twentytwentytwo' ),
-						'<a href="' . esc_url( __( 'https://wordpress.org', 'twentytwentytwo' ) ) . '" rel="nofollow">WordPress</a>'
+						esc_html__( 'Proudly powered by %s', 'milon' ),
+						'<a href="' . esc_url( __( 'https://wordpress.org', 'milon' ) ) . '" rel="nofollow">WordPress</a>'
 					) . '</p>
 					<!-- /wp:paragraph --></div>
 					<!-- /wp:group --></div>

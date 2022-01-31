@@ -3,7 +3,7 @@
  * Footer with social links and copyright
  */
 return array(
-	'title'      => __( 'Footer with social links and copyright', 'twentytwentytwo' ),
+	'title'      => __( 'Footer with social links and copyright', 'milon' ),
 	'categories' => array( 'footer' ),
 	'blockTypes' => array( 'core/template-part/footer' ),
 	'content'    => '<!-- wp:group {"align":"full","layout":{"inherit":true}} -->
@@ -21,7 +21,7 @@ return array(
 					<!-- /wp:spacer -->
 
 					<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"16px"}}} -->
-					<p class="has-text-align-center" style="font-size:16px">' . esc_html__( '© Site Title', 'twentytwentytwo' ) . '</p>
+					<p class="has-text-align-center" style="font-size:16px">' . esc_html__( '© Site Title', 'milon' ) . '</p>
 					<!-- /wp:paragraph --></div>
 					<!-- /wp:group --></div>
 					<!-- /wp:group -->',
