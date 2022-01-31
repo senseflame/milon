@@ -14,6 +14,16 @@
 			"homepage": "https://github.com/senseflame/milon/contributors.md"
 		}
 	],
+	"autoload": {
+        "files": [
+            "inc/admin-functions.php",
+            "inc/template-functions.php",
+            "inc/block-patterns.php"
+        ],
+        "psr-4": {
+            "Milon\\": "inc/classes/"
+        }
+    },
 	"require": {
 		"php": ">=5.6"
 	},
