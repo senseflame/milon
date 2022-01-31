@@ -18,9 +18,9 @@ Milon is designed to be the most flexible default theme ever created for WordPre
 
 ## Contributing
 
-If you would like to contribute code, the list of [open issues](https://github.com/WordPress/milon/issues) is a great place to start looking for tasks. [Pull requests](https://github.com/WordPress/milon/pulls) are preferred when linked to an existing issue.
+If you would like to contribute code, the list of [open issues](https://github.com/senseflame/milon/issues) is a great place to start looking for tasks. [Pull requests](https://github.com/senseflame/milon/pulls) are preferred when linked to an existing issue.
 
-Contributing is not just for developers! There are many opportunities to help with [testing](#getting-started), triage, discussion, design, building patterns and templates, and more. Please look through [open issues](https://github.com/WordPress/milon/issues), and join in wherever you feel most comfortable.
+Contributing is not just for developers! There are many opportunities to help with [testing](#getting-started), triage, discussion, design, building patterns and templates, and more. Please look through [open issues](https://github.com/senseflame/milon/issues), and join in wherever you feel most comfortable.
 
 If you'd like to help with triage, let @jffng and @kjellr know here or in [WordPress.org's Slack instance](https://make.wordpress.org/chat/). We'll help you get set up with the ability to add labels to issues and PRs.
 

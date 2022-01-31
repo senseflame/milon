@@ -6,12 +6,12 @@
 		"WordPress",
 		"Themes"
 	],
-	"homepage": "https://github.com/WordPress/milon",
+	"homepage": "https://github.com/senseflame/milon",
 	"license": "GPL-2.0-or-later",
 	"authors": [
 		{
 			"name": "Contributors",
-			"homepage": "https://github.com/WordPress/milon/contributors.md"
+			"homepage": "https://github.com/senseflame/milon/contributors.md"
 		}
 	],
 	"require": {

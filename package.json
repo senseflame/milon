@@ -6,13 +6,13 @@
 	"author": "WordPress",
 	"license": "GPL-2.0-or-later",
 	"bugs": {
-		"url": "https://github.com/WordPress/milon/issues"
+		"url": "https://github.com/senseflame/milon/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/WordPress/milon.git"
+		"url": "git+https://github.com/senseflame/milon.git"
 	},
-	"homepage": "https://github.com/WordPress/milon#readme",
+	"homepage": "https://github.com/senseflame/milon#readme",
 	"devDependencies": {
 		"@wordpress/stylelint-config": "^19.1.0",
 		"stylelint": "^13.13.1"
