@@ -22,7 +22,9 @@ Milon is distributed under the terms of the GNU GPL.
  * This is a niche setting that will not be available via Global Styles.
  * https://github.com/WordPress/gutenberg/issues/35934
  */
-
+html{
+	overflow-x: hidden;
+}
 body {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;

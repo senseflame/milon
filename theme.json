@@ -1,4 +1,5 @@
 {
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
 	"version": 2,
 	"customTemplates": [
 		{
@@ -183,8 +184,12 @@
 			],
 			"fontSizes": [
 				{
-					"size": "1rem",
+					"size": ".85rem",
 					"slug": "small"
+				},
+				{
+					"size": "1rem",
+					"slug": "normal"
 				},
 				{
 					"size": "1.125rem",
@@ -201,8 +206,8 @@
 			]
 		},
 		"layout": {
-			"contentSize": "650px",
-			"wideSize": "1000px"
+			"contentSize": "1140px",
+			"wideSize": "1600px"
 		}
 	},
 	"styles": {
@@ -328,7 +333,7 @@
 		"typography": {
 			"fontFamily": "var(--wp--preset--font-family--system-font)",
 			"lineHeight": "var(--wp--custom--typography--line-height--normal)",
-			"fontSize": "var(--wp--preset--font-size--medium)"
+			"fontSize": "var(--wp--preset--font-size--normal)"
 		}
 	},
 	"templateParts": [
